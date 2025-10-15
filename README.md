@@ -1,7 +1,8 @@
 # DLCPD-25-Dataset
 Plant-Pest-Disease-Dataset-DLCPD25  
 使用百度网盘下载我们的开源数据集  
-Download our open-source dataset using Baidu Netdisk.  
+Download our open-source dataset using Baidu Netdisk.    
+链接: https://pan.baidu.com/s/1KWLVESB1InGPl-M6Mq8MBw?pwd=gnp5 提取码: gnp5    
 | EC | Classes | Num of images | FC | Classes | Num of images |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Citrus | 21 | 15342 | Corn | 20 | 18677 |
